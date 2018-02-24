@@ -1,0 +1,155 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thepaperroses.github.io" resolutions="1x" timestamp="1519480509203">
+  <folder name="css">
+    <file name="site_global.css" crc="198853804"/>
+    <file name="portfolio.css" crc="4130981289" ref="portfolio"/>
+    <file name="contact.css" crc="3796682714" ref="contact"/>
+    <file name="about.css" crc="4294071102" ref="about"/>
+    <file name="faq-s.css" crc="4061583887" ref="faq-s"/>
+    <file name="commissions.css" crc="3758862327" ref="commissions"/>
+    <file name="index.css" crc="35276829" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="playlist-script.ttf.woff" crc="4131652730"/>
+    <file name="playlist-script.ttf.eot" crc="4114635440"/>
+    <file name="playlist-script.ttf.svg" crc="4288434066"/>
+  </folder>
+  <folder name="assets">
+    <file name="photography-papercut-4.jpg" crc="4035726134" seo="true" mt="1492289492000"/>
+    <file name="clock-wip.mp4" crc="4033828312" seo="true" mt="1494170710000"/>
+    <file name="box.png" crc="304385814" seo="true" mt="1519215573000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about:portfolio:faq-s:commissions"/>
+    <file name="museutils.js" crc="3803043152" ref="index:contact:about:portfolio:faq-s:commissions"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about:portfolio:faq-s:commissions"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:contact:about:portfolio:faq-s:commissions"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:contact:about:portfolio:faq-s:commissions"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:contact:about:portfolio:faq-s:commissions"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:contact:about:portfolio:faq-s:commissions"/>
+    <file name="require.js" crc="4157109226" ref="index:contact:about:portfolio:faq-s:commissions"/>
+    <file name="webpro.js" crc="242022427" ref="contact"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u1615.php" crc="4294661748" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4129781380" ref="index"/>
+    <file name="photography papercut 4.jpg" crc="3973568329" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding vows papercut.jpg" crc="3804712312" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sewing template 2.jpg" crc="140790027" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="love heart card.jpg" crc="3912964503" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sewing papercut 2.jpg" crc="94594730" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="box2.png" crc="396615859" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram feed.jpg" crc="333466932" ref="index:contact:about:portfolio:faq-s:commissions">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="faq-s" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="bee.jpg" crc="296685103" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding anniversary papercut 10.jpg" crc="456227904" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo grey white.jpg" crc="4270150519" ref="index:contact:about:portfolio:faq-s:commissions">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="faq-s" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="facebook circle.png" crc="30622365" ref="index:contact:about:portfolio:faq-s:commissions">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="faq-s" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="instagram circle.png" crc="4109295205" ref="index:contact:about:portfolio:faq-s:commissions">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="faq-s" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="pinterest circle.png" crc="4191605436" ref="index:contact:about:portfolio:faq-s:commissions">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="faq-s" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="tropical papercut 5.jpg" crc="4135160746" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="rose drawing.jpg" crc="404361803" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="cake papercut.jpg" crc="3930427220" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="wedding vows papercut 6.jpg" crc="414085800" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="new baby papercut 6.jpg" crc="3827469743" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="tea - biscuits papercut 3.jpg" crc="4230627044" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="house papercut 7.jpg" crc="4143821305" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="marriage proposal papercut 9.jpg" crc="3915631252" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="josh papercut 3.jpg" crc="4286959404" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="commision papercut 2-u2924-fr.jpg" crc="4212957499" ref="portfolio"/>
+    <file name="wedding anniversary papercut 6.jpg" crc="4137869418" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="commision papercut.jpg" crc="476367973" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="pet papercut 2.jpg" crc="4150213503" ref="portfolio">
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="wedding vows papercut 3.jpg" crc="3841506017" ref="faq-s">
+      <caption webpage="faq-s" alt=""/>
+    </file>
+    <file name="all cards.jpg" crc="77179932" ref="faq-s">
+      <caption webpage="faq-s" alt=""/>
+    </file>
+    <file name="commision papercut 2.jpg" crc="4152846568" ref="commissions">
+      <caption webpage="commissions" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="250052473" seo="true" mt="1519478052016" redirect="true"/>
+  <file name="contact.html" crc="3875095540" seo="true" mt="1519478081732" redirect="true"/>
+  <file name="about.html" crc="205171454" seo="true" mt="1519478893477" redirect="true"/>
+  <file name="portfolio.html" crc="373392329" seo="true" mt="1519478434220" redirect="true"/>
+  <file name="faq-s.html" crc="248726360" seo="true" mt="1519479276831" redirect="true"/>
+  <file name="commissions.html" crc="259414385" seo="true" mt="1519478675057" redirect="true"/>
+</manifest>
