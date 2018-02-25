@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://thepaperroses.github.io/index.html</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://thepaperroses.github.io/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://thepaperroses.github.io/tablet/index.html"/>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/about.html</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://thepaperroses.github.io/phone/about.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://thepaperroses.github.io/tablet/about.html"/>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/portfolio.html</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://thepaperroses.github.io/phone/portfolio.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://thepaperroses.github.io/tablet/portfolio.html"/>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/commissions.html</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://thepaperroses.github.io/phone/commissions.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://thepaperroses.github.io/tablet/commissions.html"/>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/contact.html</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://thepaperroses.github.io/phone/contact.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://thepaperroses.github.io/tablet/contact.html"/>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/faq-s.html</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://thepaperroses.github.io/phone/faq-s.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://thepaperroses.github.io/tablet/faq-s.html"/>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/test-page.html</loc>
+    <lastmod>2018-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/assets/photography-papercut-4.jpg</loc>
+    <lastmod>2017-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/assets/clock-wip.mp4</loc>
+    <lastmod>2017-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thepaperroses.github.io/assets/box.png</loc>
+    <lastmod>2018-02-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
