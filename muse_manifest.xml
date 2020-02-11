@@ -1,0 +1,610 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.thepaperroses.co.uk" resolutions="1x,2x" timestamp="1581420952225">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="208928679" ref="commissions:contact:index:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="396456637" ref="commissions:contact:index:about"/>
+    <file name="commissions.css" crc="3792142926" ref="commissions"/>
+    <file name="nomq_commissions.css" crc="123951122" ref="commissions"/>
+    <file name="contact.css" crc="462165549" ref="contact"/>
+    <file name="nomq_contact.css" crc="3891803337" ref="contact"/>
+    <file name="index.css" crc="4291270353" ref="index"/>
+    <file name="nomq_index.css" crc="325414646" ref="index"/>
+    <file name="about.css" crc="1989204" ref="about"/>
+    <file name="nomq_about.css" crc="3780223211" ref="about"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:commissions:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:commissions:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:commissions:contact"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:commissions:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:commissions:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index:about:commissions:contact"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index:about:commissions:contact"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:commissions:contact"/>
+    <file name="require.js" crc="4157109226" ref="index:about:commissions:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="78959276" ref="index"/>
+    <file name="grey logo.jpg" crc="3760360897" seo="true" ref="index:about:commissions:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="commissions" alt=""/>
+    </file>
+    <file name="grey logo_2x.jpg" crc="3822913293" seo="true" ref="index:about:commissions:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="commissions" alt=""/>
+    </file>
+    <file name="paperct card.jpg" crc="255805920" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card_2x.jpg" crc="3911268127" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="u362-5.png" crc="3957709263" ref="index"/>
+    <file name="u362-5_2x.png" crc="366331970" ref="index"/>
+    <file name="rose banner 2.jpg" crc="4113150723" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rose banner 2_2x.jpg" crc="242933468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box.jpg" crc="232235789" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box_2x.jpg" crc="4158096201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding venue papercut.jpg" crc="3881394876" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="wedding venue papercut_2x.jpg" crc="182083449" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10.jpg" crc="3942817071" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10_2x.jpg" crc="4153005455" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="rose heart card.jpg" crc="4101266982" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="rose heart card_2x.jpg" crc="405226897" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="newsletter banner1571x384.jpg" crc="92629752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner1571x384_2x.jpg" crc="3907019583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest circle53x50.png" crc="3858804957" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest circle_2x.png" crc="102598082" seo="true" ref="index:about:commissions:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="commissions" alt=""/>
+      <caption webpage="commissions" alt=""/>
+    </file>
+    <file name="instagram circle50x50.png" crc="3778386292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram circle50x50_2x.png" crc="411837330" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook circle50x51.png" crc="506511730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook circle50x51_2x.png" crc="488588934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest circle43x43.png" crc="61356152" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook circle43x43.png" crc="416327148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram circle46x46.png" crc="4161801807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey logo174x107.jpg" crc="3916115333" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey logo174x107_2x.jpg" crc="62902885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paperct card1382x900.jpg" crc="3932375560" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card1382x900_2x.jpg" crc="80975441" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="u362-52.png" crc="150863913" ref="index"/>
+    <file name="u362-5_2x2.png" crc="107381274" ref="index"/>
+    <file name="rose banner 21382x337.jpg" crc="4199181462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rose banner 21382x337_2x.jpg" crc="3983233995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box1382x723.jpg" crc="376290771" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box1382x723_2x.jpg" crc="306280058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding venue papercut366x247.jpg" crc="3982355412" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="wedding venue papercut366x247_2x.jpg" crc="195084120" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10372x247.jpg" crc="3815842963" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10372x247_2x.jpg" crc="3772747908" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="rose heart card372x247.jpg" crc="3968294492" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="rose heart card372x247_2x.jpg" crc="3899692350" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="newsletter banner1383x338.jpg" crc="210439919" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner1383x338_2x.jpg" crc="3970205681" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram circle.png" crc="4109295205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest circle.png" crc="4191605436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook circle.png" crc="30622365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey logo183x112.jpg" crc="3819709836" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey logo183x112_2x.jpg" crc="4052909228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paperct card1248x814.jpg" crc="119037773" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card1248x814_2x.jpg" crc="141660742" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="u362-53.png" crc="141771009" ref="index"/>
+    <file name="u362-5_2x3.png" crc="3942326448" ref="index"/>
+    <file name="rose banner 21248x299.jpg" crc="343915674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rose banner 21248x299_2x.jpg" crc="4034381425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box1248x653.jpg" crc="95037161" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box1248x653_2x.jpg" crc="107014838" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding venue papercut362x244.jpg" crc="3969554184" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="wedding venue papercut362x244_2x.jpg" crc="31305143" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10367x244.jpg" crc="3828889078" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10367x244_2x.jpg" crc="249728004" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="rose heart card368x244.jpg" crc="296060562" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="rose heart card368x244_2x.jpg" crc="448515005" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="newsletter banner1248x306.jpg" crc="3965631507" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner1248x306_2x.jpg" crc="531829120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram circle50x502.png" crc="4109295205" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest circle46x46.png" crc="3989883844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook circle46x46.png" crc="30622365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey logo178x108.jpg" crc="344014963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey logo178x108_2x.jpg" crc="4018108553" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paperct card1122x731.jpg" crc="430372041" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card1122x731_2x.jpg" crc="19915151" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="u362-54.png" crc="451448429" ref="index"/>
+    <file name="u362-5_2x4.png" crc="199296908" ref="index"/>
+    <file name="pink hamburger.jpg" crc="194618025" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink hamburger_2x.jpg" crc="275593020" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink cross.jpg" crc="3919709582" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pink cross_2x.jpg" crc="334381033" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rose banner 21122x267.jpg" crc="391679359" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rose banner 21122x267_2x.jpg" crc="19456069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box1122x587.jpg" crc="44505525" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box1122x587_2x.jpg" crc="4123004250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner1122x275.jpg" crc="312034303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner1122x275_2x.jpg" crc="4095612043" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding venue papercut293x199.jpg" crc="389109370" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="wedding venue papercut293x199_2x.jpg" crc="3919926782" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10298x198.jpg" crc="3965652751" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10298x198_2x.jpg" crc="4256555680" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="rose heart card298x198.jpg" crc="211808482" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="rose heart card298x198_2x.jpg" crc="3946268163" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card929x606.jpg" crc="216472112" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card929x606_2x.jpg" crc="3769951304" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="u362-55.png" crc="4290205690" ref="index"/>
+    <file name="u362-5_2x5.png" crc="4047784832" ref="index"/>
+    <file name="rose banner 2928x221.jpg" crc="489264486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rose banner 2928x221_2x.jpg" crc="4155614249" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box930x487.jpg" crc="400100182" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulip box930x487_2x.jpg" crc="351527130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner930x228.jpg" crc="3947073904" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner930x228_2x.jpg" crc="268623299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest circle52x49.png" crc="4123990221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest circle52x49_2x.png" crc="102598082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram circle49x49.png" crc="137550719" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram circle49x49_2x.png" crc="291113184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook circle49x49.png" crc="66855429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook circle49x49_2x.png" crc="387981096" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u362-56.png" crc="4230456403" ref="index"/>
+    <file name="u362-5_2x6.png" crc="64182286" ref="index"/>
+    <file name="rose banner mobile.jpg" crc="4204547572" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rose banner mobile_2x.jpg" crc="324742837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulib ban mobile.jpg" crc="4228987457" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner.jpg" crc="4234851530" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner_2x.jpg" crc="4212845292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_dsc0432320x217.jpg" crc="4008586526" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="_dsc0432320x217_2x.jpg" crc="4173604157" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10319x212.jpg" crc="4009884309" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10319x212_2x.jpg" crc="3960026993" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="_dsc0269319x212.jpg" crc="3916624057" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="_dsc0269_2x.jpg" crc="4168818221" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card696x454.jpg" crc="3930873215" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card696x454_2x.jpg" crc="523287322" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="u362-57.png" crc="4164070395" ref="index"/>
+    <file name="u362-5_2x7.png" crc="357647611" ref="index"/>
+    <file name="rose banner mobile2.jpg" crc="335238859" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rose banner mobile_2x2.jpg" crc="4059825975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulib ban mobile2.jpg" crc="3807788526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tulib ban mobile_2x.jpg" crc="250192808" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding venue papercut261x176.jpg" crc="4176459937" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="wedding venue papercut261x176_2x.jpg" crc="3857016948" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Venue Portrait Papercut By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10263x175.jpg" crc="3869874792" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="acrylic disc 10263x175_2x.jpg" crc="4113101752" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Name Ornament, Bridesmaid Proposal, New Baby Gift, By The Paper Roses"/>
+    </file>
+    <file name="rose heart card265x176.jpg" crc="4100060128" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="rose heart card265x176_2x.jpg" crc="4261146892" seo="true" ref="index">
+      <caption webpage="index" alt="Personalised Floral Rose Heart Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="newsletter banner1366x334.jpg" crc="4285918902" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="newsletter banner1366x334_2x.jpg" crc="435296562" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey logo179x109.jpg" crc="4187347308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grey logo179x109_2x.jpg" crc="38483920" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paperct card320x209.jpg" crc="4127074085" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="paperct card320x209_2x.jpg" crc="395256101" seo="true" ref="index">
+      <caption webpage="index" alt="Floral Personalised Papercut Card By The Paper Roses"/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:commissions:contact"/>
+    <file name="about page.jpg" crc="4258941916" seo="true" ref="about">
+      <caption webpage="about" alt="The Paper Roses Team"/>
+    </file>
+    <file name="about page_2x.jpg" crc="313154994" seo="true" ref="about">
+      <caption webpage="about" alt="The Paper Roses Team"/>
+    </file>
+    <file name="about page1383x978.jpg" crc="3798735154" seo="true" ref="about">
+      <caption webpage="about" alt="The Paper Roses Team"/>
+    </file>
+    <file name="about page1383x978_2x.jpg" crc="313154994" seo="true" ref="about">
+      <caption webpage="about" alt="The Paper Roses Team"/>
+    </file>
+    <file name="about page1157x818.jpg" crc="4155720019" seo="true" ref="about">
+      <caption webpage="about" alt="The Paper Roses Team"/>
+    </file>
+    <file name="about page1157x818_2x.jpg" crc="135572500" seo="true" ref="about">
+      <caption webpage="about" alt="The Paper Roses Team"/>
+    </file>
+    <file name="about page mobile321x406.jpg" crc="106955901" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="about page mobile321x406_2x.jpg" crc="323026046" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="commission page.jpg" crc="3804333862" seo="true" ref="commissions">
+      <caption webpage="commissions" alt="The Paper Roses Commissions - House Portrait, Custom Papercut, Pet Portrait, Personalised Vows Art"/>
+    </file>
+    <file name="commission page_2x.jpg" crc="34899647" seo="true" ref="commissions">
+      <caption webpage="commissions" alt="The Paper Roses Commissions - House Portrait, Custom Papercut, Pet Portrait, Personalised Vows Art"/>
+    </file>
+    <file name="commission page1379x975.jpg" crc="326339431" seo="true" ref="commissions">
+      <caption webpage="commissions" alt="The Paper Roses Commissions - House Portrait, Custom Papercut, Pet Portrait, Personalised Vows Art"/>
+    </file>
+    <file name="commission page1379x975_2x.jpg" crc="255169306" seo="true" ref="commissions">
+      <caption webpage="commissions" alt="The Paper Roses Commissions - House Portrait, Custom Papercut, Pet Portrait, Personalised Vows Art"/>
+    </file>
+    <file name="commission page1187x839.jpg" crc="4279445465" seo="true" ref="commissions">
+      <caption webpage="commissions" alt="The Paper Roses Commissions - House Portrait, Custom Papercut, Pet Portrait, Personalised Vows Art"/>
+    </file>
+    <file name="commission page1187x839_2x.jpg" crc="266945151" seo="true" ref="commissions">
+      <caption webpage="commissions" alt="The Paper Roses Commissions - House Portrait, Custom Papercut, Pet Portrait, Personalised Vows Art"/>
+    </file>
+    <file name="commission page mobile.jpg" crc="290460101" seo="true" ref="commissions">
+      <caption webpage="commissions" alt=""/>
+    </file>
+    <file name="commission page mobile929x1368.jpg" crc="4091213947" seo="true" ref="commissions">
+      <caption webpage="commissions" alt=""/>
+    </file>
+    <file name="commission page mobile696x1025.jpg" crc="28992043" seo="true" ref="commissions">
+      <caption webpage="commissions" alt=""/>
+    </file>
+    <file name="commission page mobile320x472.jpg" crc="3887447299" seo="true" ref="commissions">
+      <caption webpage="commissions" alt=""/>
+    </file>
+    <file name="commission page mobile320x472_2x.jpg" crc="145986751" seo="true" ref="commissions">
+      <caption webpage="commissions" alt=""/>
+    </file>
+    <file name="floral wreath contact.jpg" crc="4227670356" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact_2x.jpg" crc="3935794025" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact1388x980.jpg" crc="4293093053" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact1388x980_2x.jpg" crc="424312731" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact1252x885.jpg" crc="75282609" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact1252x885_2x.jpg" crc="3816883638" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact1119x791.jpg" crc="326272858" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact1119x791_2x.jpg" crc="3936095800" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact484x342.jpg" crc="3805179582" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="floral wreath contact484x342_2x.jpg" crc="4285670196" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3838082030" seo="true" mt="1581414063346" redirect="true"/>
+  <file name="about.html" crc="3902287232" seo="true" mt="1581367047492" redirect="true"/>
+  <file name="commissions.html" crc="4104679725" seo="true" mt="1581367047492" redirect="true"/>
+  <file name="contact.html" crc="4188211809" seo="true" mt="1581367047492" redirect="true"/>
+</manifest>
